@@ -1,4 +1,5 @@
 const me: object = {
     name: 'Meet',
-    lname: 'Patel'
+    lname: 'Patel',
+    age: 28
 }
