@@ -1,1 +1,1 @@
-const mountain2: string = 'Mango'
+const mountain2: string = 'banana'
