@@ -1,4 +1,4 @@
 
 
-const mountain2: string = 'Apple'
+const mountain2: string = 'main mountain'
 
